@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "238369011691",
+    "firebase_url": "https://comvida-15f1d.firebaseio.com",
+    "project_id": "comvida-15f1d",
+    "storage_bucket": "comvida-15f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238369011691:android:0d414ef806459d6f204bae",
+        "android_client_info": {
+          "package_name": "com.lixcassidy.comida_vida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238369011691-q6bf1adl93p3bqk0nkvoel9354lvtmcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8LbhAdcWikhxDWvO2Ijdbc8zuTPw8Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238369011691-q6bf1adl93p3bqk0nkvoel9354lvtmcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238369011691:android:efd7537035e6050e204bae",
+        "android_client_info": {
+          "package_name": "com.lixcassidy.comvida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238369011691-q6bf1adl93p3bqk0nkvoel9354lvtmcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8LbhAdcWikhxDWvO2Ijdbc8zuTPw8Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238369011691-q6bf1adl93p3bqk0nkvoel9354lvtmcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238369011691:android:d7a9773c9618b64d204bae",
+        "android_client_info": {
+          "package_name": "dare.zambo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238369011691-q6bf1adl93p3bqk0nkvoel9354lvtmcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8LbhAdcWikhxDWvO2Ijdbc8zuTPw8Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238369011691-q6bf1adl93p3bqk0nkvoel9354lvtmcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
